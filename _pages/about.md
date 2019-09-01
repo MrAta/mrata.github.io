@@ -24,8 +24,8 @@ June-September, 2019: _I'll be a research intern at [HashiCorp](https://www.hash
 
 Jan 23, 2019: _I'm done with my Phd qualification exams._
 
-August 20, 2018: _I am again a TA for CMPSC 473 Operating Systems course here at Penn State!_
+<!-- August 20, 2018: _I am again a TA for CMPSC 473 Operating Systems course here at Penn State!_
 
 August 23, 2017: _I am a TA for CMPSC 473 Operating Systems course here at Penn State!_
 
-August 22, 2017: _I just started my Phd in computer science at Penn State University._
+August 22, 2017: _I just started my Phd in computer science at Penn State University._ -->
