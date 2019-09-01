@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-[radnom!](https://imgs.xkcd.com/comics/random_number.png)
+![radnom!](https://imgs.xkcd.com/comics/random_number.png)
