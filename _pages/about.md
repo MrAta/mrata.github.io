@@ -16,7 +16,7 @@ I graduated from Sharif University of Technology in 2017 with a BS in Computer E
 
 For more information you can see me CV [here](https://mrata.github.io/files/ata-cv.pdf).
 
-###Recent News
+### Recent News
 
 August 2, 2019: _I'm happy to be part of Artifact Evaluation (AE) committee for ACM SOSP'19 conference.
 June-September, 2019: _I'll be a research intern at [HashiCorp](https://www.hashicorp.com) to work on Consul scalability project.
