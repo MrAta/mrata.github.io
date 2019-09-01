@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-To contain random stuff
+[radnom!](https://imgs.xkcd.com/comics/random_number.png)
