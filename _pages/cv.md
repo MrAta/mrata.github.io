@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv.pdf
+  - /ata-cv.pdf
 ---
 
 {% include base_path %}
