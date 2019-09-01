@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ata Fatahi"
 title_separator          : "-"
 name                     : &name "Ata Fatahi"
 description              : &description "Ata Fatahi's homepage"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ata Fatahi"
-  avatar           : "profile.png"
+  avatar           : "ata.jpeg"
   bio              : "Phd Student at Penn State University"
   location         : "State College, PA"
   employer         :
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :   "https://www.linkedin.com/in/atafatahibaarzi/"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
