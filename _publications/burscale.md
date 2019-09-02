@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/burscale
 excerpt: ''
 date: 2019-10-20
-venue: "SoCC'19"
+venue: "10th ACM Symposium on Cloud Computing (SoCC ’19)"
 paperurl: ''
 ---
 
