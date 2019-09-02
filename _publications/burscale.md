@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/burscale
 excerpt: ''
 date: 2019-10-20
-venue: 'Journal 1'
+venue: "SoCC'19"
 paperurl: ''
 citation: ''
 ---
