@@ -18,7 +18,7 @@ For more information you can see me CV [here](https://mrata.github.io/files/ata-
 
 ### Recent News
 
-September, 3, 2019: _[BurScale](https://mrata.github.io/publications/) is accepted to ACM SoCC '19!
+September, 3, 2019: _[BurScale](https://mrata.github.io/publications/) is accepted to ACM SoCC '19!_
 
 August 2, 2019: _I'm happy to be part of Artifact Evaluation (AE) committee for ACM SOSP'19 conference._
 
