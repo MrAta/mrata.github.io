@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+You can also see my [Google Scholar profile](https://scholar.google.com/citations?user=8C_wZCsAAAAJ&hl=en).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+- **Ata Fatahi**, Timothy Zhu, Bhuvan Urgaonkar, ["**BurScale: Using Burstable Instances for Improving the Cost-Efficacy of Autoscaling in the Public Cloud**"](mrata.github.io), 10th ACM Symposium on Cloud Computing (**SoCC '19**)
