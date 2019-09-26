@@ -24,9 +24,9 @@ August 2, 2019: _I'm happy to be part of Artifact Evaluation (AE) committee for 
 
 June-September, 2019: _I'll be a research intern at [HashiCorp](https://www.hashicorp.com) to work on Consul scalability project._
 
-Jan 23, 2019: _I'm done with my Phd qualification exams._
+<!-- October 23, 2018: _I'm done with my Phd qualification exams._
 
-<!-- August 20, 2018: _I am again a TA for CMPSC 473 Operating Systems course here at Penn State!_
+ August 20, 2018: _I am again a TA for CMPSC 473 Operating Systems course here at Penn State!_
 
 August 23, 2017: _I am a TA for CMPSC 473 Operating Systems course here at Penn State!_
 
