@@ -11,4 +11,4 @@ You can also see my [Google Scholar profile](https://scholar.google.com/citation
 
 - **Ata Fatahi**, Timothy Zhu, Bhuvan Urgaonkar, ["**BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud,**"](https://mrata.github.io/files/burscale.pdf) 10th ACM Symposium on Cloud Computing (**SoCC '19**)
 
-- Aman Jain, **Ata Fatahi**, Nader Alfares, George Kesidis, Bhuvan Urgaonkar, Mahmut Kandemir, "**SplitServe: Efficiently Splitting Complex Workloads Across FaaS and IaaS,**" Extended abstract in 10th ACM Symposium on Cloud Computing (**SoCC '19**)
+- Aman Jain, **Ata Fatahi**, Nader Alfares, George Kesidis, Bhuvan Urgaonkar, Mahmut Kandemir, ["**SplitServe: Efficiently Splitting Complex Workloads Across FaaS and IaaS,**"]() Extended abstract in 10th ACM Symposium on Cloud Computing (**SoCC '19**)
