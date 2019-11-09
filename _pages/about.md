@@ -13,7 +13,7 @@ My broad research interests include distributed systems and cloud computing -- i
 
 I graduated from Sharif University of Technology in 2017 with a BS in Computer Engineering where I worked on performance evaluation of modern storage systems.
 
-For more information you can see me CV [here](https://mrata.github.io/files/ata-cv.pdf).
+For more information you can see my CV [here](https://mrata.github.io/files/ata-cv.pdf).
 
 ### Recent News
 
