@@ -17,11 +17,11 @@ For more information you can see my CV [here](https://mrata.github.io/files/ata-
 
 ### Recent News
 
-November, 23, 2019: _I won the Best Poster Award in ACM SoCC '19! for [BurScale](https://mrata.github.com/publications)._
+November, 23, 2019: _I awarded the Best Poster Award in ACM SoCC '19 for [BurScale](https://mrata.github.com/publications)._
 
 September, 3, 2019: _[BurScale](https://mrata.github.io/publications/) is accepted to ACM SoCC '19!_
 
-August 2, 2019: _I'm happy to be part of Artifact Evaluation (AE) committee for ACM SOSP'19 conference._
+August 2, 2019: _I am part of Artifact Evaluation (AE) committee for ACM SOSP'19._
 
 June-September, 2019: _I'll be a research intern at [HashiCorp](https://www.hashicorp.com) to work on Consul scalability project._
 
