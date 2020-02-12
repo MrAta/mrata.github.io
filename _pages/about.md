@@ -9,7 +9,9 @@ redirect_from:
 ---
 I am a third-year PhD student in the Department of Computer Science at Penn State University, advised by [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/). I've also had this great chance to work closely with [Prof. Timothy Zhu](https://sites.psu.edu/timothyz/).
 
-<i>My research goal is to make distributed systems more efficient</i>. My broad research interests include distributed systems and cloud computing -- in particular, I am interested in performance evaluation and designing efficient (in terms of cost, performance and security) cloud platforms and also systems problems associated with resource management and scheduling.
+<i>My research goal is to make distributed systems more efficient in terms of cost, performance, and security.</i>
+
+My broad research interests include distributed systems and cloud computing -- in particular, I am interested in performance evaluation and designing efficient (in terms of cost, performance and security) cloud platforms and also systems problems associated with resource management and scheduling.
 
 I graduated from Sharif University of Technology in 2017 with a BS in Computer Engineering where I worked on performance evaluation of modern storage systems.
 
