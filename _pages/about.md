@@ -19,6 +19,8 @@ For more information you can see my CV [here](https://mrata.github.io/files/ata-
 
 ### Recent News
 
+March, 20, 2020: _Our work on [attack-resilient microservices](https://mrata.github.com/publications) is accepted to EuroSec '20!_
+
 November, 23, 2019: _I awarded the Best Poster Award in ACM SoCC '19 for [BurScale](https://mrata.github.com/publications)._
 
 September, 3, 2019: _[BurScale](https://mrata.github.io/publications/) is accepted to ACM SoCC '19!_
