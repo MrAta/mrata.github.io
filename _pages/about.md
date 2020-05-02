@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in the Department of Computer Science at Penn State University, advised by [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/). I've also had this great chance to work closely with [Prof. Timothy Zhu](https://sites.psu.edu/timothyz/).
+I am a third-year PhD student in the Department of Computer Science at Penn State University, advised by [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/).
 
 <i>My research goal is to make distributed systems more efficient in terms of cost, performance, and security.</i>
 
@@ -18,6 +18,10 @@ I graduated from Sharif University of Technology in 2017 with a BS in Computer E
 For more information you can see my CV [here](https://mrata.github.io/files/ata-cv.pdf).
 
 ### Recent News
+
+May-August, 2020: _I will be a research intern at [Microsoft](https://azuredata.microsoft.com/labs/gsl) to work on large-scale systems for data provenance._
+
+May, 1, 2020: _Successfully passed my PhD oral comprehensive exam (aka thesis proposal)._
 
 March, 20, 2020: _Our work on [attack-resilient microservices](https://mrata.github.com/publications) is accepted to EuroSec '20!_
 
