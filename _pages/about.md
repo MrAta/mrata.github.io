@@ -21,7 +21,7 @@ For more information you can see my CV [here](https://mrata.github.io/files/ata-
 
 May-August, 2020: _I will be a research intern at [Microsoft](https://azuredata.microsoft.com/labs/gsl) to work on large-scale systems for data provenance._
 
-May, 1, 2020: _Successfully passed my PhD oral comprehensive exam (aka thesis proposal)._
+May, 1, 2020: _Successfully passed my PhD comprehensive oral exam (aka thesis proposal)._
 
 March, 20, 2020: _Our work on [attack-resilient microservices](https://mrata.github.com/publications) is accepted to EuroSec '20!_
 
