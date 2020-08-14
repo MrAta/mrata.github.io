@@ -19,7 +19,10 @@ For more information you can see my CV [here](https://mrata.github.io/files/ata-
 
 ### Recent News
 
-May-August, 2020: _I will be a research intern at [Microsoft](https://azuredata.microsoft.com/labs/gsl) to work on large-scale systems for data provenance._
+<!--Spetember, 21, 2020: Our work on multi-cloud serverless application model is accepted to ACM WoSC '20 -->
+August, 28, 2020: _[SplitServe](https://mrata.github.com/publiications/) is accepted to ACM Middleware '20!_
+
+May-August, 2020: _I will be a research intern at [Microsoft](https://azuredata.microsoft.com/labs/gsl) to work on differential data provenance._
 
 May, 1, 2020: _Successfully passed my PhD comprehensive oral exam (aka thesis proposal)._
 
