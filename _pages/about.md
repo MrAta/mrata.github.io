@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in the Department of Computer Science at Penn State University, advised by [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/).
+I am a fourth-year PhD student in the Department of Computer Science at Penn State University, advised by [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/).
 
 <i>My research goal is to make distributed systems more efficient in terms of cost, performance, and security.</i>
 
