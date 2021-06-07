@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**I am on the industrial job market. I'm looking for distributed systems and infrastructure as well as software engineering positions.**
+
+
+
 I am a fourth-year PhD student in the Department of Computer Science at Penn State University, advised by [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/).
 
 <i>My research goal is to make distributed systems more efficient in terms of cost, performance, and security.</i>
