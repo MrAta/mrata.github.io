@@ -1,0 +1,7 @@
+baseURL = 'https://mrata.github.io/'
+languageCode = 'en-us'
+title = 'The mrata blog'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
