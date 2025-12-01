@@ -5,3 +5,18 @@ title = 'The mrata blog'
 [module]
   [[module.imports]]
     path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/MrAta"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/atafatahibaarzi/"
+
+
+[params]
+  goToTop = true
+
+
+
