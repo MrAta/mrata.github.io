@@ -18,5 +18,7 @@ url = "https://www.linkedin.com/in/atafatahibaarzi/"
 [params]
   goToTop = true
 
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
